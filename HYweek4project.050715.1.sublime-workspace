@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"css",
+				"_normalize.scss"
+			],
+			[
+				"jquer",
+				"jquery.fancybox-thumbs.css"
+			],
+			[
+				"jqu",
+				"jquery.fancybox-media.js"
+			],
+			[
+				"jquery",
+				"jquery.fancybox-buttons.css"
+			],
+			[
+				"jq",
+				"jquery.fancybox.css"
+			],
+			[
+				"spli",
+				"splice(${0:index}, howMany)	Array"
+			],
+			[
+				"shopcart",
+				"shopCartCount1"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"togg",
+				"toggle	.toggle()"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"toggl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"incud",
+				"include	@include"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"transpar",
+				"transparent"
+			],
+			[
+				"js",
+				"js-openPopup"
+			],
+			[
+				"trans",
+				"transformTranslate	transformTranslate"
+			],
+			[
+				"meta",
+				"metabase	metabase"
+			],
+			[
+				"ff",
+				"ff-ss	font-family: sans-serif;"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"base",
+				"basefontsize"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"line",
+				"linear-gradient"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"bakc",
+				"background"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"borderb",
+				"border-bottom"
+			],
+			[
+				"filt",
+				"filter	.filter()"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"for",
+				"for	JS - For loop"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"ts",
+				"tsh+	text-shadow: ${1:0} ${2:0} ${3:0} ${4:#000};"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"listt",
+				"list-style-image"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"border-to",
+				"border-top-left-radius"
+			],
+			[
+				"sty",
+				"style	HTML - Stylesheet link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 8374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 14605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9767,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"snippet",
+				"Snippet: metabase"
+			],
+			[
+				"snipp",
+				"Snippet: metabase"
+			],
+			[
+				"snippe",
+				"Snippet: metabase"
+			],
+			[
+				"ns",
+				"Snippet: setup"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: test",
+				"Snippet: testsnippet.102114.1"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 363.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/HYweek4project.050715",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/HYweek4project.050715/images",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/HYweek4project.050715/starBackground"
+	],
+	"file_history":
+	[
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/HYweek4project.050715/starBackground/index.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/HYweek4project.050315/css/mixins.universal.scss",
+		"/Users/sunnyair/Dropbox/Programming Projects/project.template.042715/index.layout.030215.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_4/week4project.assets/gallery-start/index.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/.git/config",
+		"/Users/sunnyair/Dropbox/jQuery/Sliders/flickity/flickity-docs/flickity.pkgd.js",
+		"/Users/sunnyair/Dropbox/Programming Projects/project.template.042715/includes/scripts.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/newsletter.042715.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/featured.042715.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/products.042715.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/testimonials.042715.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/heroBlock.042715.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/mixins.project.041415.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/heroBlock.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/products.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/testimonials.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/featured.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/newsletter.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/index.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/contact.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/index.jade",
+		"/Users/sunnyair/Dropbox/Programming Projects/project.template.042715/includes/mixins.project.041415.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/banner.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/nav.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/reservations.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/footer.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/index.layout.030215.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/scripts.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/links.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/mixins.universal.041415.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/includes/variables.global.041415.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/js/scripts.js",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/typography.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/style.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/mixins.universal.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/mixins.project.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/css/variables.global.041415.1.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/heroBlock.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/reservations.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/products.042715.1.jade",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/HYweek3project.042715/contact.042715.1.jade",
+		"/Users/sunnyair/Dropbox/Programming Projects/project.template.042715/css/mixins.project.scss",
+		"/Users/sunnyair/Dropbox/Programming Projects/project.template.042715/css/style.scss",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_3/responsive2.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_2/catz/index.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_2/cat.animation.slideshow.042315.1.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_2/advanced.selectors.play.042315.1.html",
+		"/Users/sunnyair/Dump Truck/HackerYou/Spring 2015 Bootcamp/week_2/form.042215.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/slide.out.nav.112014/slide.out.nav.112014.1.scss",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/slide.out.nav.112014/slide-out-nav.112014.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 4/8 - Display and Position/ex8-modal.020515.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/modal.play.032215.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 5/10 - Forms/inputs-exercise.020615.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/flexbox.play.032415.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/flexbox.play.032415.c1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/flexbox.play.032415.e1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/indicate.submenu.031915.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/SlideOutButton.zip Folder/index.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/slideout.button.031915.1/slide.out.button.031915.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/slideout.button.031915.1.html/slide.out.button.031915.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/stylish.css.switch.buttons.031515.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/modal.play.022615.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/html.play.022615/modal.avgrund.022615.1.html",
+		"/Users/azrai/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/modal.overlay.111914/modal.overlay.111914.1.js",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/framework.play.020715/framework.play.020715.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 5/9 - Navigations/ex7-side-nav.020515.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/grid/grid.scss",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/framework.play.020715/framework.play.020715.1.jade",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 5/10 - Forms/form.020615.1.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 5/10 - Forms.html",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/sunnyLamProject1/index.html",
+		"/Users/sunnyair/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sunnyair/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/sunnyair/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 1/2.exercises/markup-exercise.020415.1.html",
+		"/Users/sunnyair/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/azrai/Dropbox/HTML Programming/HackerYou HTML CSS Intro 2014/Week 1/2.exercises/hello-world.html",
+		"/Applications/MAMP/htdocs/slider.menu.ex.120114/styles/style.scss",
+		"/Applications/MAMP/htdocs/slider.menu.ex.120114/index.jade",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/20 - Advanced Selectors/slide-out-nav.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/20 - Advanced Selectors/slide.out.nav.112014.1.scss",
+		"/Applications/MAMP/htdocs/slider.menu.ex.120114/scripts/scripts.js",
+		"/Applications/MAMP/htdocs/slider.menu.ex.120114/styles",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/Smooth&Sticky/stikcy.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/grid/index.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/Smooth&Sticky/smooth.scroll.ex.112714.1.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/Smooth&Sticky/Smooth Scroll.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/grid/style.scss",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/Smooth&Sticky/jquery.sticky.js",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/grid/grid.scss",
+		"/Users/sunnylam/Documents/HTML Programming/Responsive SCSS Notes/responsive.112714.1.scss",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/framework.ex.112714.1.jade",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 11/grid/_normalize.scss",
+		"/Applications/MAMP/htdocs/ghost.buttons.ex.112314/index.jade",
+		"/Applications/MAMP/htdocs/ghost.buttons.ex.112314/css/style.scss",
+		"/Applications/MAMP/htdocs/ghost.buttons.ex.112314/css/_typography.scss",
+		"/Applications/MAMP/htdocs/ghost.buttons.ex.112314/css/_normalize.scss",
+		"/Applications/MAMP/htdocs/popup.ex.112214/index.jade",
+		"/Applications/MAMP/htdocs/popup.ex.112214/includes/scripts.jade",
+		"/Applications/MAMP/htdocs/popup.ex.112214/includes/links.jade",
+		"/Applications/MAMP/htdocs/popup.ex.112214/css/style.scss",
+		"/Applications/MAMP/htdocs/popup.ex.112214/css/_typography.scss",
+		"/Applications/MAMP/htdocs/popup.ex.112214/js/script.js",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Applications/MAMP/htdocs/popup.ex.112214/index.html",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/index.jade",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/includes/links.jade",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/includes/scripts.jade",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/css/style.scss",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/css/_typography.scss",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/js/script.js",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/index.html",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/transition.all.time.sublime-snippet",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/transformTranslate.sublime-snippet",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/testsnippet.102114.1.sublime-snippet",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/transformTranslate",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/metabase.sublime-snippet",
+		"/Users/sunnylam/Documents/HTML Programming/popup.ex.112214/css/_normalize.scss",
+		"/Users/sunnylam/Library/Application Support/Sublime Text 3/Packages/User/metabase.jade",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/20 - Advanced Selectors/_normalize.scss",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/20 - Advanced Selectors/playground.css",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/modal.overlay.111914.1.css",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/modal.overlay.111914.1.js",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/modal.overlays.ex.112014.1.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/20 - Advanced Selectors/playground.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/sass.ex.111814/index.html",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/sass.ex.111814/styles/style.scss",
+		"/Users/sunnylam/Documents/HTML Programming/HackerYou HTML CSS Intro 2014/Week 10/sass.ex.111814/styles/_normalize.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hiddentex",
+			"max-width",
+			"slantedSlash043015a",
+			"slantSlash042915a",
+			"slantSlash042815a1",
+			"navSlantSlash042815a1",
+			"addToCartShader042915b",
+			"flexboxSettings042215a",
+			"addToCartShader042915a",
+			"purchaseShaderDisplay042815a",
+			"purchaseShader042815a1",
+			"pulsingBorder",
+			"flexboxSettings041715a",
+			"colourSelect042915a",
+			"backgroundImage042815a",
+			"productDivDimensions042815a2",
+			"productDivDimensions042815a1",
+			"margin",
+			"purchaseShader042815a1",
+			"purchaseShader",
+			"purchaseShaderDisplay042815a",
+			"&:hover > div.purchaseShader",
+			"border-bottom",
+			"yellow",
+			"hover",
+			"footer",
+			"glyphicon",
+			"container",
+			"testieStack",
+			"1px",
+			"{\n",
+			"}\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"slantedSlash3",
+			"slantSlash2",
+			"slantSlash1",
+			"navSlantSlash1",
+			"addToCartShader2",
+			"flexboxColumn1",
+			"addToCartShader1",
+			"purchaseShaderDisplay1",
+			"purchaseShader1",
+			"pulsingBorder1",
+			"flexboxRow1",
+			"colourSelect1",
+			"backgroundImage1",
+			"productDivDimensions2",
+			"productDivDimensions1",
+			"clientLogoStack"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12013,
+								12013
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "javascript",
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2655.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								547
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.510438368056,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HYweek4project.050715.1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"normal",
+				"HackerYou HTML CSS Intro 2014/Week 6/11 - Snippets/normalize.sublime-snippet"
+			],
+			[
+				"",
+				"head first html css 2nd/chapter11/starbuzz/starbuzz.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

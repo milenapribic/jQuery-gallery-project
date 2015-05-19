@@ -1,0 +1,407 @@
+// WELCOME TO STYLE.SCSS
+
+////////////////////////////////////////////
+///// 		IMPORTS
+///////////////////////////////////////////////
+
+@import 'normalize';
+@import 'grid';
+@import 'responsive';
+@import 'columns';
+
+///////////////////////////////////////////////
+///// 		END IMPORTS
+///////////////////////////////////////////////
+
+////////////////////////////////////////////
+///// 		SETUP
+///////////////////////////////////////////////
+
+// normalize code was imported above
+
+body{
+	// position: relative;
+	// height: 100vh;
+	position: relative;
+
+	background: black;
+}
+
+///////////////////////////////////////////////
+///// 		END SETUP
+///////////////////////////////////////////////
+
+////////////////////////////////////////////
+///// 		GENERAL
+///////////////////////////////////////////////
+
+section.rings {
+	position: relative;
+	height: 100vh;
+	width:100%;
+}
+
+.small .image img{
+	border-radius: 50%;
+	// width: 100%;
+	max-width: 100%;
+	cursor: pointer;
+}
+
+.big.modal h2, .big.modal h3{
+	font-family: 'Oswald', sans-serif;
+}
+
+.big.modal li{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+
+///////////////////////////////////////////////
+///// 		END GENERAL
+///////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+///// 		SUN
+///////////////////////////////////////////////
+
+section.rings section.sun {
+	margin:0;
+	padding:0;
+	position: absolute;
+	
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+
+	z-index: 10;
+
+	display:flex;
+	flex-flow: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+
+	img#sunImage {
+		// if Prepros is used or another preprocessor with AutoPrefixr CSS enabled, vendor prefixes will be handled
+		-webkit-filter: blur(5px);
+	}
+}
+
+
+///////////////////////////////////////////////
+///// 		END SUN
+///////////////////////////////////////////////
+
+
+
+// PLANETS  ------------------------------------------------
+
+.planet {
+	margin:0;
+	padding:0;
+	position: absolute;
+}
+
+.planet.mercury {
+	// values from original though aligned along the vertical axis
+	top: 30%;
+	left: 49%;
+}
+
+.planet.venus {
+	// values from original though aligned along the vertical axis
+	// required for the orbital animations to work
+	// we want the planets nearly aligned vertically along the sun's vertical axis
+	top: 48%;
+	left: 47%;
+
+}
+
+.planet.earth {
+	// values from original though aligned along the vertical axis
+	// required for the orbital animations to work
+	// we want the planets nearly aligned vertically along the sun's vertical axis
+	top: 22%;
+	left: 47%;
+}
+
+.planet.mars {
+	top: 31%;
+	left: 79%;
+
+	// values from original though aligned along the vertical axis
+	// required for the orbital animations to work
+	// we want the planets nearly aligned vertically along the sun's vertical axis
+	top: 31%;
+	left: 47%;
+}
+
+.planet.jupiter {
+	// values from original though aligned along the vertical axis
+	// required for the orbital animations to work
+	// we want the planets nearly aligned vertically along the sun's vertical axis
+	top: 21%;
+	left: 44%;
+}
+
+// // END PLANETS ------------------------------------------------
+
+
+
+////////////////////////////////////////////
+///// 		MODALS
+///////////////////////////////////////////////
+
+section.big.modal {
+	// positioned relative to the body
+	// this is the outer modal which holds the planet modal entries
+	position: absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+
+	// flexbox
+	// apply flexbox to the big modal to centre each of the modal entries both horizontally and vertically
+	// since we've stretched the big modal already it sort of has a height so vertical centring with flexbox will work
+	display:flex;
+	flex-flow: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+
+	// right now the modal box outer is a layer that is blocking the planet layer
+	// we need to put it behind the planet layer
+	// change z-index and/or its display
+	display: none;
+	z-index:-10;
+}
+
+
+section.big.modal section {
+	//flexbox the parent
+	display:flex;
+	flex-flow:row no-wrap;
+	justify-content: center;
+	align-content:center;
+	align-items:center;
+
+	width: 80%;
+
+	// DEFAULT DISPLAY STATUS
+	// in jQuery we will change the visibility of the modal
+	// we want all our planet modal entries to be hidden until made visible with a jQuery click event
+	display: none;
+
+
+	.image {
+		flex: 1 70%;
+		margin: 0 auto;
+
+		// apply flexbox
+		display:flex;
+
+
+		img {
+			width:100%;
+		}
+	}
+
+	.hiddenText {
+		flex: 1 30%;
+		margin: 0 auto;
+		padding: 25px;
+		text-align: left;
+		h2{
+			text-align: center;
+		}
+		h3{
+			text-align: center;
+		}
+	}
+}
+
+// Style Each of the Planet Modals  ------------------------------------------------
+
+// general styling of all the text in each of the planet modal entries
+.hiddenText {
+	font-size: 18px;
+	color:#fff;
+	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+
+	h2{
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-size: 36px;
+		font-family: 'Oswald', sans-serif;
+	}
+}
+
+section.big.modal section.jupiterModal, section.big.modal section.marsModal{
+	.image{
+		flex: 1 60%;
+	}
+}
+
+
+
+section.big.modal section.venusModal{
+	.hiddenText{
+		background: rgba(159,59,31,0.3);
+	}
+	.image{
+		flex: 1 60%;
+	}
+}
+
+section.big.modal section.mercuryModal {
+	.hiddenText{
+		background: rgba(87,96,96, 0.3);
+		padding-bottom: 80px;
+	}
+}
+
+section.big.modal section.marsModal {
+	.hiddenText{
+		background: rgba(160, 49, 7, 0.3);
+	}
+}
+
+section.big.modal section.jupiterModal {
+	.hiddenText{
+		background: rgba(148, 134, 122, 0.3);
+		padding-bottom: 50px;
+	}
+}
+
+section.big.modal section.earthModal {
+	.hiddenText{
+		background: rgba(48, 94, 61, 0.3);
+	}
+}
+
+.big.modal .earthModal .image, section.big.modal section .image {
+	flex: 0 60%;
+}
+
+
+// // END Style Each of the Planet Modals ------------------------------------------------
+
+
+
+///////////////////////////////////////////////
+///// 		END MODALS
+///////////////////////////////////////////////
+
+
+
+
+
+////////////////////////////////////////////
+///// 		STARRY BACKGROUND
+///////////////////////////////////////////////
+
+// background styling for animated stars
+
+// ................... TWINKLING STARS...................
+// CSS keyframe animation for the twinkling star effect
+@keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-webkit-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-moz-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-ms-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+// // ...................END TWINKLING STARS ...................
+
+
+
+// ................... ROLLING NEBULA...................
+// CSS keyframe animation for the rolling nebula
+@-webkit-keyframes move-clouds-back {
+    from {
+			top: 60%;
+			left: -25%;
+			transform: rotate(0deg);
+
+    }
+    to {
+    	top: 10%;
+			left: 125%;
+			transform: rotate(360deg);
+    }
+}
+// // ...................END ROLLING NEBULA ...................
+
+
+.container {
+	position: relative;
+	overflow:hidden;
+	height: 100vh;
+	width: 100%;
+	z-index: -100;
+}
+	 
+.stars, .twinkling {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  width:100%;
+  height:100%;
+  display:block;
+}
+	 
+.stars {
+  background:#000 url(../images/stars.png) repeat top center;
+  z-index:0;
+}
+	 
+.twinkling{
+  background:transparent url(../images/twinkling.png) repeat top center;
+  z-index:1;
+ 
+  -moz-animation:move-twink-back 200s linear infinite;
+  -ms-animation:move-twink-back 200s linear infinite;
+  -o-animation:move-twink-back 200s linear infinite;
+  -webkit-animation:move-twink-back 200s linear infinite;
+  animation:move-twink-back 200s linear infinite;
+}
+	 
+.clouds{
+	width: 600px;
+	height:377px;
+	background: url(../images/nebula.png)no-repeat;
+	background-size: contain;
+	z-index:35;
+	position: absolute;
+	-webkit-filter: blur(5px);
+	-moz-animation:move-clouds-back 200s linear infinite;
+	-ms-animation:move-clouds-back 200s linear infinite;
+	-o-animation:move-clouds-back 200s linear infinite;
+	-webkit-animation:move-clouds-back 200s linear infinite;
+	animation:move-clouds-back 200s linear infinite;
+}
+
+///////////////////////////////////////////////
+///// 		END STARRY BACKGROUND
+///////////////////////////////////////////////
+
+
+
